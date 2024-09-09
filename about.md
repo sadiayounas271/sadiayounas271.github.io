@@ -15,11 +15,10 @@ description: An optional about page for Scriptor Jekyll theme
 | Bachelor of Science in Computer Science | 
 | 2016 - 2020  | 
 
-|EXPERIENCE|
-| ------| ----- |
-| Text  | Text  |
-| Text  | Text  |
-| Text  | Text  |
+|EXPERIENCE| | | |
+| ------| ----- |----- |----- |
+|Coeus Solutions | Unity Game Developer (SE-2) | Apr 2023 - October 2024 | 1 yr 7 mos |
+
 
 |EXPERIENCE| 
 | ------| 
