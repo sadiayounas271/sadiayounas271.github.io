@@ -5,7 +5,8 @@ description: An optional about page for Scriptor Jekyll theme
 ---
 
 feature_image: images/about.jpg
-<img src="images/about.jpg" alt="Description" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+<img src="{{ 'images/about.jpg' | relative_url }}" alt="Example Image" class="circle-image">
+
 
 
 ## EDUCATION
