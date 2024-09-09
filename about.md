@@ -4,19 +4,19 @@ title: About
 description: An optional about page for Scriptor Jekyll theme
 ---
 
-<img src="images/about.jpg"  style="width: 150px; height: 150px;  object-fit: cover;">
+<img src="images/about.jpg"  style="width: 300px; height: 300px;  object-fit: cover;">
 
 
-
-
-
-## EDUCATION
-### FAST NUCES
-Bachelor of Science in Computer Science
-2016 - 2020
+#### EDUCATION
 
 |EDUCATION| 
 | ------| 
 | FAST NUCES |
 | Bachelor of Science in Computer Science | 
 | 2016 - 2020  | 
+
+|EXPERIENCE| 
+| ------| 
+| COEUS SOLUTIONS |
+| Unity Game Developer (SE-2) | 
+| Apr 2023 - October 2023 | 
