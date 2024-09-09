@@ -31,12 +31,12 @@ navigation:
   - text: Home
     url: /
   - text: About
-    url: /about/
-  - text: Style Guide
-    url: /style-guide/
-  - text: Tags
-    url: /tags/
-  - text: Download
+    url: /about
+  - text: Services
+    url: /style-guide
+  - text: Portfolios
+    url: /tags
+  - text: Contact
     url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
 
 # The shortname for your Disqus site to enable comments.
