@@ -12,5 +12,5 @@ description: An optional about page for Scriptor Jekyll theme
 
 ## EDUCATION
 ### FAST NUCES
-BS(CS) 
+Bachelor of Science in Computer Science
 2016 - 2020
