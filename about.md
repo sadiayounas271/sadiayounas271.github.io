@@ -6,6 +6,6 @@ feature_image: images/about.jpg
 ---
 
 # EDUCATION
-FAST NUCES
+##FAST NUCES
 BS(CS) 
 2016 - 2020
