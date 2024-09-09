@@ -14,3 +14,9 @@ description: An optional about page for Scriptor Jekyll theme
 ### FAST NUCES
 Bachelor of Science in Computer Science
 2016 - 2020
+
+|EDUCATION| 
+| ------| 
+| FAST NUCES |
+| Bachelor of Science in Computer Science | 
+| 2016 - 2020  | 
