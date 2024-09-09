@@ -4,7 +4,7 @@ title: About
 description: An optional about page for Scriptor Jekyll theme
 ---
 
-<img src="images/about.jpg"  style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+<img src="images/about.jpg"  style="width: 150px; height: 150px;  object-fit: cover;">
 
 
 
