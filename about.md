@@ -5,7 +5,7 @@ description: An optional about page for Scriptor Jekyll theme
 ---
 
 feature_image: images/about.jpg
-<img src="path/to/image.jpg" alt="Description" class="circle-image">
+<img src="images/about.jpg" alt="Description" class="circle-image">
 
 ## EDUCATION
 ### FAST NUCES
