@@ -42,7 +42,6 @@ navigation:
 # The shortname for your Disqus site to enable comments.
 disqus: justgoodthemes
 
-<img src="images/about.jpg" alt="Circular Image" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
 # Colors
 accent_color: '#2d72d9'
 
