@@ -17,10 +17,8 @@ description: An optional about page for Scriptor Jekyll theme
 
 |EXPERIENCE| | | |
 | ------| ----- |----- |----- |
-|Coeus Solutions | Unity Game Developer (SE-2) | Apr 2023 - October 2024 | 1 yr 7 mos |
+|Coeus Solutions | Unity Game Developer (SE-2) | Apr 2023 - Present | 1 yr 7 mos |
+|GeniTeam Solutions | Unity Game Developer | Oct 2021 - Mar 2023 | 1 yr 6 mos |
 
 
-|EXPERIENCE| 
-| ------| 
-| COEUS SOLUTIONS | | Unity Game Developer (SE-2) || Apr 2023 - October 2024 | 
 
