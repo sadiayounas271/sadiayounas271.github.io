@@ -18,6 +18,11 @@ description: An optional about page for Scriptor Jekyll theme
 | My Role: | As a Software Engineer, I worked on Multiplayer Pun2 and also worked on how to connect, join the lobby, create & join a room, custom properties, RPCs, and shuffle cards, turns & sync on both sides.  | 
 |Game Link |(https://play.google.com/store/apps/details?id=com.amerikano.legends.card.games&hl=en)|
 
+| |Galactic Acres |
+| ------| ------| 
+| Description |idle game (clicker, or simulator game). Unlock cute animals in the sanctuary, upgrade to buy managers and increase your earning, and join forces to defeat space pirates in this new idle clicker game!	 |
+| My Role: | As a Software Engineer, I worked on gems swipe, 2D sprite animations, boosters, live feature, level designing.|
+
 
 ### EXPERIENCE
 
