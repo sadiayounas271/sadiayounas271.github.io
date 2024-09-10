@@ -1,7 +1,7 @@
 ---
 layout: tags
-title: Portfolio 
-description: An optinal about page for Scriptor Jekyll theme
+title: Tags
+description: A tags page for Scriptor Jekyll theme
 ---
 #### Projects
 | AAAA | 
