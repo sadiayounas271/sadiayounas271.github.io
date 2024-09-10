@@ -14,7 +14,6 @@ description: An optional about page for Scriptor Jekyll theme
 
 
 
-####  Amerikano Card Game
 | | Amerikano Card Game |
 | ------| ------| 
 | Description | Amerikano is a unique and addicting card game from the Rummy family. Amerikano is played with 106-card pack (2 packs of 52 and 2 Jokers); each player is dealt 13 cards and the aim is to finish the cards in hand by forming set and sequence combinations 	 |
@@ -23,7 +22,6 @@ description: An optional about page for Scriptor Jekyll theme
 
 
 
-#### Galactic Acres
 | |Galactic Acres |
 | ------| ------| 
 | Description |idle game (clicker, or simulator game). Unlock cute animals in the sanctuary, upgrade to buy managers and increase your earning, and join forces to defeat space pirates in this new idle clicker game!	 |
@@ -40,7 +38,7 @@ description: An optional about page for Scriptor Jekyll theme
 
 
 
-#### Scary Robber Home Clash
+
 | | Scary Robber Home Clash |
 | ------| ------| 
 | Description | A 3D game in a large environment where 2 robbers come into a house where the kid is alone. The kid has to hide from the robbers and has to set a prank for them to terrify them.|
