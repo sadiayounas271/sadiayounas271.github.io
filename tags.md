@@ -33,6 +33,8 @@ description: An optional about page for Scriptor Jekyll theme
 | ------| ------| 
 | Description | A hybrid casual game based on ‘sneak’ and ‘multiple choice’ mechanics. Hide n pranks is about Nick, who is on the lookout for Scary Teacher to prank her without getting detected. The player has to pick the right option to prank the Teacher that keeps the players engaged with its funny prank reactions.|
 | My Role: | As a Software Engineer, I was responsible for working on features including revive functionality (in case the teacher caught you, revive panel will appear with a button of Ad, if you click it and watch Ad it will revive the player from the same spot; otherwise the level will be failed), timer (how much time a player takes to complete the level) and pop-ups notifications to show multiple rewards and other engaging materials from the company.  | 
+|Game Link |([https://play.google.com/store/apps/details?id=com.zatg.catchme.pranks&hl=en](https://play.google.com/store/apps/details?id=com.zatg.catchme.pranks&hl=en))|
+
 |Game Link |(https://play.google.com/store/apps/details?id=com.zatg.catchme.pranks&hl=en)|
 
 
