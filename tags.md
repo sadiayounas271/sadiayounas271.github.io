@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About 
+title: Portfolios 
 description: An optional about page for Scriptor Jekyll theme
 ---
 
