@@ -5,9 +5,9 @@ description: An optional about page for Scriptor Jekyll theme
 ---
 My name is Sadia. I'm having 3 years of experience in unity. I worked on 2d/3d games. 
 My 3 years of experience as a Software Engineer has made me proficient in quickly understanding the requirements and identifying solutions accordingly.
-I have worked on games ranging from hyper-casual to simulation to board games. I Like to work board games.
-<img src="images/about.jpg"  style="width: 300px; height: 300px;  object-fit: cover;">
+I have worked on games ranging from hyper-casual to simulation to board games. I Love to work board games.
 
+<img src="images/about.jpg"  style="width: 300px; height: 300px;  object-fit: cover;">
 
 ### EDUCATION
 
