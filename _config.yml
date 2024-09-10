@@ -37,7 +37,7 @@ navigation:
   - text: Portfolios
     url: /tags
   - text: Contact
-    url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
+    url: /contacts
 
 # The shortname for your Disqus site to enable comments.
 disqus: justgoodthemes
