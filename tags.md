@@ -13,7 +13,7 @@ description: An optional about page for Scriptor Jekyll theme
 | My Role: | As a Software Engineer, I worked on gems swipe, 2D sprite animations, boosters, live feature, level designing.|
 
 
-<img src="images/about.jpg"  style="width: 300px; height: 300px;  object-fit: cover;">
+<img src="images/AL.jpg" >
 
 
 | | Amerikano Card Game |
