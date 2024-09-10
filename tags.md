@@ -29,7 +29,6 @@ description: An optional about page for Scriptor Jekyll theme
 
 
 
-#### Hide N' Pranks
 | | Hide N' Pranks |
 | ------| ------| 
 | Description | A hybrid casual game based on ‘sneak’ and ‘multiple choice’ mechanics. Hide n pranks is about Nick, who is on the lookout for Scary Teacher to prank her without getting detected. The player has to pick the right option to prank the Teacher that keeps the players engaged with its funny prank reactions.|
