@@ -15,7 +15,7 @@ description: An optional about page for Scriptor Jekyll theme
 | Bachelor of Science in Computer Science | 
 | 2016 - 2020  | 
 
-### EXPERIENCE
+### PROFESSIONAL EXPERIENCE
 
 |EXPERIENCE| | | |
 | ------| ----- |----- |----- |
