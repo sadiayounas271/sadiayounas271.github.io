@@ -18,7 +18,7 @@ description: An optional about page for Scriptor Jekyll theme
 | ------| ------| 
 | Description | Amerikano is a unique and addicting card game from the Rummy family. Amerikano is played with 106-card pack (2 packs of 52 and 2 Jokers); each player is dealt 13 cards and the aim is to finish the cards in hand by forming set and sequence combinations 	 |
 | My Role: | As a Software Engineer, I worked on Multiplayer Pun2 and also worked on how to connect, join the lobby, create & join a room, custom properties, RPCs, and shuffle cards, turns & sync on both sides.  | 
-|Game Link |(https://play.google.com/store/apps/details?id=com.amerikano.legends.card.games&hl=en)|
+|Game Link |([https://play.google.com/store/apps/details?id=com.amerikano.legends.card.games&hl=en](https://play.google.com/store/apps/details?id=com.amerikano.legends.card.games&hl=en))|
 
 
 
@@ -26,8 +26,7 @@ description: An optional about page for Scriptor Jekyll theme
 | ------| ------| 
 | Description |idle game (clicker, or simulator game). Unlock cute animals in the sanctuary, upgrade to buy managers and increase your earning, and join forces to defeat space pirates in this new idle clicker game!	 |
 | My Role: |  As a Software Engineer, I worked on UI, localization, and Shop. |
-
-
+|Game Link |([https://play.google.com/store/apps/details?id=com.goodgaming.galactic&hl=en_US](https://play.google.com/store/apps/details?id=com.goodgaming.galactic&hl=en_US))|
 
 | | Hide N' Pranks |
 | ------| ------| 
