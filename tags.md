@@ -4,8 +4,6 @@ title: About
 description: An optional about page for Scriptor Jekyll theme
 ---
 
-<img src="images/about.jpg"  style="width: 300px; height: 300px;  object-fit: cover;">
-
 
 ### EDUCATION
 
