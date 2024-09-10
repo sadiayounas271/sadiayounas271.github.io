@@ -9,7 +9,7 @@ description: An optional about page for Scriptor Jekyll theme
 
 |Amerikano Card Game| 
 | ------| 
-| FAST NUCES |
+|  Amerikano is a unique and addicting card game from the Rummy family. Amerikano is played with 106-card pack (2 packs of 52 and 2 Jokers); each player is dealt 13 cards and the aim is to finish the cards in hand by forming set and sequence combinations 	 |
 | Bachelor of Science in Computer Science | 
 | 2016 - 2020  | 
 
