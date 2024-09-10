@@ -5,9 +5,9 @@ description: An optional about page for Scriptor Jekyll theme
 ---
 
 
-### EDUCATION
+### PROJECTS
 
-|EDUCATION| 
+|Amerikano Card Game| 
 | ------| 
 | FAST NUCES |
 | Bachelor of Science in Computer Science | 
