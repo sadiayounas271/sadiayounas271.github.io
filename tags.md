@@ -9,8 +9,7 @@ description: An optional about page for Scriptor Jekyll theme
 | |Match 3 Game |
 | ------| ------| 
 | Description |A puzzle game, where we swap adjacent gems on a board to create a match of three or more of the same type gem. Destroy gems on making a match, gems move down and board refills. Boosters appear on making a match of required count of gems. 	 |
-| My Role: | As a Software Engineer, I worked on Multiplayer Pun2 and also worked on how to connect, join the lobby, create & join a room, custom properties, RPCs, and shuffle cards, turns & sync on both sides.  | 
-|Game Link |https://play.google.com/store/apps/details?id=com.amerikano.legends.card.games&hl=en|
+| My Role: | As a Software Engineer, I worked on gems swipe, 2D sprite animations, boosters, live feature, level designing.|
 
 
 | | Amerikano Card Game |
