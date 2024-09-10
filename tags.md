@@ -5,6 +5,8 @@ description: An optional about page for Scriptor Jekyll theme
 ---
 
 ### PROJECTS
+
+
 #### Match 3 Game
 | |Match 3 Game |
 | ------| ------| 
@@ -30,7 +32,7 @@ description: An optional about page for Scriptor Jekyll theme
 
 
 
-
+#### Hide N' Pranks
 | | Hide N' Pranks |
 | ------| ------| 
 | Description | A hybrid casual game based on ‘sneak’ and ‘multiple choice’ mechanics. Hide n pranks is about Nick, who is on the lookout for Scary Teacher to prank her without getting detected. The player has to pick the right option to prank the Teacher that keeps the players engaged with its funny prank reactions.|
@@ -38,10 +40,12 @@ description: An optional about page for Scriptor Jekyll theme
 |Game Link |(https://play.google.com/store/apps/details?id=com.zatg.catchme.pranks&hl=en)|
 
 
-| | Hide N' Pranks |
+
+#### Scary Robber Home Clash
+| | Scary Robber Home Clash |
 | ------| ------| 
-| Description | A hybrid casual game based on ‘sneak’ and ‘multiple choice’ mechanics. Hide n pranks is about Nick, who is on the lookout for Scary Teacher to prank her without getting detected. The player has to pick the right option to prank the Teacher that keeps the players engaged with its funny prank reactions.|
-| My Role: | As a Software Engineer, I was responsible for working on features including revive functionality (in case the teacher caught you, revive panel will appear with a button of Ad, if you click it and watch Ad it will revive the player from the same spot; otherwise the level will be failed), timer (how much time a player takes to complete the level) and pop-ups notifications to show multiple rewards and other engaging materials from the company.  | 
-|Game Link |(https://play.google.com/store/apps/details?id=com.zatg.catchme.pranks&hl=en)|
+| Description | A 3D game in a large environment where 2 robbers come into a house where the kid is alone. The kid has to hide from the robbers and has to set a prank for them to terrify them.|
+| My Role: | As a Software Engineer, I worked on multiple levels of development, animations, timelines, VFX, and SFX. While completing the project, I was working to make game aesthetics look more catchy and engaging to the users while also helping the team to come up with various pranks that can be added to the game to engage users.  | 
+|Game Link |([https://play.google.com/store/apps/details?id=com.zatg.catchme.pranks&hl=en](https://play.google.com/store/apps/details?id=com.zatg.scaryrobber.boylife&hl=en))|
 
 
