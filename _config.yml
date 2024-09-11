@@ -36,7 +36,7 @@ navigation:
     url: /style-guide
   - text: Portfolios
     url: /tags
-  - text: Contact
+  - text: Resume
     url: /contacts
 
 # The shortname for your Disqus site to enable comments.
