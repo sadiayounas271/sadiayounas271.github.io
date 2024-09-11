@@ -33,11 +33,11 @@ navigation:
   - text: About
     url: /about
   - text: Services
-    url: /style-guide
+    url: /services
   - text: Portfolios
-    url: /tags
+    url: /portfolio
   - text: Resume
-    url: /contacts
+    url: /resume
 
 # The shortname for your Disqus site to enable comments.
 disqus: justgoodthemes
