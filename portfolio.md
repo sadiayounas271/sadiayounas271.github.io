@@ -3,7 +3,7 @@ layout: page
 title: Portfolios 
 description: An optional about page for Scriptor Jekyll theme
 ---
-<img src="images/FirstProject.jpg" >
+<img src="images/FirstProject.png" >
 
 
 |   | 🔥CAR RENTAL SYSTEM (.NET FRAMEWORK)| 
