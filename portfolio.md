@@ -21,7 +21,7 @@ and implements CRUD operations.
 + ADO.NET
 + SQL Server
 + System.Security.Cryptography.Algorithms(Nuget Package)
-__________________________________________________________________________________________________________________
+
 
 
 | |Match 3 Game |
