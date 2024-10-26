@@ -3,7 +3,7 @@ layout: page
 title: Portfolios 
 description: An optional about page for Scriptor Jekyll theme
 ---
-### 🔥CAR RENTAL SYSTEM (.NET FRAMEWORK)
+#### 🔥CAR RENTAL SYSTEM (.NET FRAMEWORK)
 ##### Description:
 A Rental Management System built with .NET Web Forms, featuring user authentication, item management,
 and secure password hashing using SHA-256. The application utilizes ADO.NET for SQL Server connectivity
