@@ -9,23 +9,6 @@ description: An optional about page for Scriptor Jekyll theme
 |🔥Key Features:  |- User sign-up and login<br> - CRUD operations for rental items <br> - Entity Framework for data access <br> - User-friendly interface MDI|
 |🔥 Technologies: |- .NET Web Forms<br> - ADO.NET <br> - SQL Server <br> - System.Security.Cryptography.Algorithms(Nuget Package)|
 
-#### 🔥CAR RENTAL SYSTEM (.NET FRAMEWORK)
-##### Description:
-A Rental Management System built with .NET Web Forms, featuring user authentication, item management,
-and secure password hashing using SHA-256. The application utilizes ADO.NET for SQL Server connectivity
-and implements CRUD operations. 	 
-##### Key Features:
-+ User sign-up and login
-+ CRUD operations for rental items
-+ Entity Framework for data access
-+ User-friendly interface MDI
-##### Technologies:
-+ .NET Web Forms
-+ ADO.NET
-+ SQL Server
-+ System.Security.Cryptography.Algorithms(Nuget Package)
-
-
 
 | |Match 3 Game |
 | ------| ------| 
