@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project
+title: Projects
 description: An optional about page for Scriptor Jekyll theme
 ---
 # Windows Forms App(.Net Framework)🎉
