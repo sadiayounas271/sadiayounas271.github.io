@@ -8,11 +8,11 @@ description: An optional about page for Scriptor Jekyll theme
 #### Project Link:
 [https://github.com/sadiayounas271/Library-Management-System](https://github.com/sadiayounas271/Library-Management-System)
 
-#### Project Link:
-[https://github.com/sadiayounas271/DiaryApp-ASP.NET-MVC](https://github.com/sadiayounas271/DiaryApp-ASP.NET-MVC)
-
 <img src="images/ASP.png" >
 <img src="images/s.png" >
+
+#### Project Link:
+[https://github.com/sadiayounas271/DiaryApp-ASP.NET-MVC](https://github.com/sadiayounas271/DiaryApp-ASP.NET-MVC)
 
 
 | |Match 3 Game |
