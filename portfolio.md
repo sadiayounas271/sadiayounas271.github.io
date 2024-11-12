@@ -12,7 +12,7 @@ description: An optional about page for Scriptor Jekyll theme
 
 ---
 # ASP.NET CORE Web App(MVC)🎉
-<img src="images/ASP.png" >
+<img src="images/asp.png" >
 <img src="images/s.png" >
 
 #### Project Link:
