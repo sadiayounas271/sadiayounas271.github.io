@@ -12,7 +12,7 @@ lang: en-US
 title: "Sadia Younas"
 
 # A description of your site for meta tag, search engine results.
-description: "Unity Game Developer"
+description: "Software Developer"
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
@@ -29,7 +29,7 @@ google_analytics: ""
 # Site navigation - each item must have a title and a url.
 navigation:
   - text: Home
-    url: /
+    url: /about
   - text: Services
     url: /services
   - text: Portfolios
