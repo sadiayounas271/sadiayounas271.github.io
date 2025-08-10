@@ -1,51 +1,85 @@
 ---
 layout: default
+title: Sadia Younas - Spring Boot Java Developer
 ---
 
 <main class="main-content fadeInDown delay_075s">
 
-  {% for post in paginator.posts %}
-  <article class="post">
-    <header class="post-header">
-      <time class="post-date" datetime="{{ post.date | date: "%Y-%m-%d" }}">{{post.date | date: "%B %-d, %Y" }}</time>
-      <h2 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}" rel="bookmark">{{post.title}}</a></h2>
-      <div class="post-meta">
-        By <span class="post-author">{{ site.data.author.name }}</span>{% if post.tags.size > 0 %}<span
-          class="post-tags"> in
-          {% for tag in post.tags %}<a href="{{ site.baseurl }}/tags/#{{ tag | cgi_escape }}" rel="tag">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</span>{% endif %}
-      </div><!-- .post-meta -->
-      {% if post.feature_image and post.feature_image != "" %}
-      <figure class="post-thumbnail image-card width-wide">
-        <a href="{{site.baseurl}}{{post.url}}"><img src="{{ post.feature_image | relative_url }}"
-            alt="{{ post.title }}"></a>
-      </figure><!-- .post-thumbnail -->
-      {% endif %}
-    </header><!-- .post-header -->
-    <div class="post-content">
-      {% if post.content contains '<!--more-->' %}
-      {{ post.content | split:'<!--more-->' | first }}
-      <p class="read-more"><a href="{{ site.baseurl }}{{ post.url }}" class="read-more-link">Continue reading &rarr;</a>
-      </p>
-      {% else %}
-      {{ post.content }}
-      {% endif %}
-    </div><!-- .post-content -->
-  </article><!-- .post -->
-  {% endfor %}
-
-  {% if paginator.total_pages > 1 %}
-  <nav class="pagination">
-    <h2 class="screen-reader-text">Posts navigation</h2>
-    <div class="nav-links">
-      {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | relative_url }}" class="newer-posts">&larr; Newer Posts</a>
-      {% endif %}
-      <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-      {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | relative_url }}" class="older-posts">Older Posts &rarr;</a>
-      {% endif %}
+  <!-- Hero Section -->
+  <section class="hero">
+    <h1>Sadia Younas</h1>
+    <h2>Spring Boot Java Developer</h2>
+    <p>Building scalable RESTful APIs with Spring Security and cloud integration</p>
+    <div class="hero-buttons">
+      <a href="#projects" class="button">View Projects</a>
+      <a href="#contact" class="button">Contact Me</a>
     </div>
-  </nav><!-- .pagination -->
-  {% endif %}
+  </section>
 
-</main><!-- .site-main -->
+  <!-- About Section -->
+  <section class="about-section">
+    <h2>About Me</h2>
+    <div class="about-content">
+      <div class="about-text">
+        <p>Software engineer with 3+ years of experience in object-oriented programming. Transitioned from Unity game development to Java backend systems, specializing in Spring Boot applications with secure authentication.</p>
+        <div class="skills">
+          <h3>Technical Skills</h3>
+          <ul class="skill-list">
+            <li>Spring Boot & Spring Security</li>
+            <li>JWT & OAuth2 Authentication</li>
+            <li>RESTful API Design</li>
+            <li>MySQL & Hibernate</li>
+            <li>Cloud Deployment</li>
+          </ul>
+        </div>
+      </div>
+      <div class="about-image">
+        <img src="/images/about.jpg" alt="Sadia Younas" style="width: 250px; border-radius: 50%;">
+      </div>
+    </div>
+  </section>
+
+  <!-- Projects Section -->
+  <section id="projects" class="projects-section">
+    <h2>Featured Projects</h2>
+    
+    <article class="project">
+      <h3>RESTful E-Commerce Backend API</h3>
+      <ul>
+        <li>Full CRUD operations with Spring Boot</li>
+        <li>JWT Authentication with Spring Security</li>
+        <li>MySQL database with Flyway migrations</li>
+      </ul>
+    </article>
+
+    <article class="project">
+      <h3>JWT Authentication API</h3>
+      <ul>
+        <li>Token generation/validation with jjwt</li>
+        <li>Role-based access control</li>
+        <li>Custom Spring Security filters</li>
+      </ul>
+    </article>
+
+    <article class="project">
+      <h3>Firebase CRUD API</h3>
+      <ul>
+        <li>Real-time data with Firestore</li>
+        <li>Spring Boot Firebase integration</li>
+        <li>Postman-tested endpoints</li>
+      </ul>
+    </article>
+  </section>
+
+  <!-- Contact Section -->
+  <section id="contact" class="contact-section">
+    <h2>Get In Touch</h2>
+    <div class="contact-info">
+      <p><i class="fas fa-phone"></i> +92-348-4984349</p>
+      <p><i class="fas fa-envelope"></i> sadladev0001@gmail.com</p>
+      <p><i class="fab fa-linkedin"></i> linkedin.com/in/sadia-younas-74b302214/</p>
+      <p><i class="fab fa-github"></i> github.com/sadiayounas271</p>
+    </div>
+  </section>
+
+</main>
